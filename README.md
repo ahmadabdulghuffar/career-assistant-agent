@@ -280,7 +280,7 @@ Deployment & Integration
 Ongoing Maintenance
 Rate: $30/hour or project-based pricing
 
-📧 Contact: ahmad@aibyahmad.com
+📧 Contact: ahmadabdulghuffar@gmail.com
 
 📄 License
 MIT License - See LICENSE file for details
